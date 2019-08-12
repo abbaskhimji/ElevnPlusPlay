@@ -1,4 +1,3 @@
-import org.json.simple.parser.ParseException;
 import textfiles.WriteFile;
 
 import java.io.*;
